@@ -35,3 +35,6 @@ public class Sortcolors {
             }
     } 
 }
+
+// time complexity - O(n)
+// space complexity - O(1)
