@@ -19,7 +19,7 @@ public class movezeros {
             System.out.print(nums[i] + " ");
         }        
     }
-    
+       
 }
 // Time complexity: O(n)
 // Space complexity: O(1)
